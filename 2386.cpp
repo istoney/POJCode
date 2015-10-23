@@ -1,8 +1,8 @@
 //Memory:1300K	Time:47MS
 //2015-10-21 09:48:44
 
-//枚举类型题目 
-//DFS方式求解
+//鏋氫妇绫诲瀷棰樼洰 
+//DFS鏂瑰紡姹傝В
  
 #include<iostream>
 #include<queue>
