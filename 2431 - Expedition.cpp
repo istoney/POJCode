@@ -1,17 +1,17 @@
-/*
- * ============================================================================
+/* 
+ ======================================================================================
  *      File Name: 2431 - Expedition.cpp
  *    Description: http://poj.org/problem?id=2431
  *         Author: Stoney
  *
  *        Version: 1.0
  *    Submit Time: 2016-01-02 16:09:28
- * Solving Method: Sort + Priority_Queue(Greedy), Loop for every stop.
  *       Compiler: c++
+ *       Run Time: 47MS
  *         Memory: 372K
- *           Time: 47MS
- * ============================================================================
-*/
+ *      Solutions: Sort + Priority_Queue(Greedy), Loop for every stop.
+ ======================================================================================
+ */
 
 #include<iostream>
 #include<queue>

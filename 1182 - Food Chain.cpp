@@ -6,12 +6,12 @@
  *
  *        Version: 1.0
  *    Submit Time: 2016-01-12 23:27:21
- * Solving Method: Union-find set to store the pairs which relationship is settled.
+ *       Compiler: c++
+ *       Run Time: 266MS
+ *         Memory: 570K
+ *      Solutions: Union-find set to store the pairs which relationship is settled.
  *                 Addtional r for each node indicates the relationship to parent node.
  *                 When compress path, update it's r to relation with root(new parent).
- *       Compiler: c++
- *         Memory: 570K	
- *           Time: 266MS
  ======================================================================================
  */
 
