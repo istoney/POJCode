@@ -1,14 +1,20 @@
-#2109 题解
+<head>
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+</head>
+
+# 2109 题解
 
 标签： POJ 高精度 二分
 
 ---
-<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default"></script>
+
 
 ## *2109 Power of Cryptography*
 
 ### **题意**
-输入整数n和p，求解整数k使$$k^n=p$$，其中1<=n<=200，1<=p<10^101
+输入整数n和p，求解整数k使\\(k^n=p\\)，其中1<=n<=200，1<=p<10^101
 ### **思路**
 ### **源码**
 ##### 1. 对double开n次方
